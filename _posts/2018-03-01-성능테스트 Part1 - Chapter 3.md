@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "성능테스트 Part1 - Chapter 2"
+title:  "성능테스트 Part1 - Chapter 3"
 ---
 성능 테스트 종류에 따라 다뤄지는 리스크들
 ---
